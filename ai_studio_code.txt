@@ -1,0 +1,39 @@
+studspot/
+├── package.json
+├── vercel.json
+├── vite.config.ts
+├── tsconfig.json
+├── index.html
+└── src/
+    ├── main.tsx
+    ├── App.tsx
+    ├── index.css
+    ├── types/
+    │   └── index.ts
+    ├── utils/
+    │   └── campusStore.ts
+    ├── hooks/
+    │   └── usePWAInstall.ts
+    ├── data/
+    │   └── seedData.ts
+    └── components/
+        ├── ListingCard.tsx
+        ├── ListingDetailModal.tsx
+        ├── TransactionHistoryModal.tsx
+        ├── PostListingModal.tsx
+        ├── PaymentInstructionScreen.tsx
+        ├── InAppChatModal.tsx
+        ├── MobileHeader.tsx
+        ├── NavigationTabs.tsx
+        ├── CampusBuzzFeed.tsx
+        ├── CampusCategoryFilterBar.tsx
+        ├── AdminApprovalModal.tsx
+        ├── SignUpModal.tsx
+        ├── StudentVerifyModal.tsx
+        ├── MpesaModal.tsx
+        ├── SavedModal.tsx
+        ├── ShareModal.tsx
+        ├── TermsOfServiceModal.tsx
+        ├── PWAInstallButton.tsx
+        ├── OfflineIndicator.tsx
+        └── StudspotLogo.tsx
